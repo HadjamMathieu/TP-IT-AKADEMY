@@ -146,6 +146,7 @@ body {
    flex-direction: row;
    margin-left: 25vh;
    gap:10vh;
+
 }
 
 .articles .article1 {
@@ -158,6 +159,7 @@ body {
    background-image: url("https://zoomcar.fr/sites/zoomcar.fr/files/styles/large/public/image-intro/renault_scenic.jpeg?itok=-5UMW5OX");
    background-size: cover;
    box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;
+   transform: skew(-1deg, -2deg);
 }
 
 .articles .article1 h2 {
@@ -192,6 +194,7 @@ body {
    font-weight:bold;
    padding:5px;
    border-radius:5px;
+   background-color: rgb(60, 211, 138);
    
 }
 .articles .article1 a:visited{
@@ -213,6 +216,7 @@ body {
    background-size: cover;
    border-radius:10px;
    box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 8px;
+   transform: skew(1deg, 2deg);
 }
 
 .articles .article2 h2 {
@@ -246,6 +250,7 @@ body {
    font-weight:bold;
    padding:5px;
    border-radius:5px;
+   background-color: rgb(60, 211, 138);
    
 }
 .articles .article2 a:visited{
